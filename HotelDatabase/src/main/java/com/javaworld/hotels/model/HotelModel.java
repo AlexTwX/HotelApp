@@ -20,7 +20,7 @@ import com.javaworld.hotels.businessobjects.Hotel;
  * 
  * @author jfsmart
  *
- * A simple class providing lookup services for a Hotel database
+ * A simple class providing lookup services for a Hotel database.
  */
 public class HotelModel {
 
